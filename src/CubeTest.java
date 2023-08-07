@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class CubeTest {
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.Test;
+
+class CubeTest {
+
 }
